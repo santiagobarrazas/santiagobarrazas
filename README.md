@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Santiago0212004)](https://github.com/anuraghazra/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Santiago0212004" frameborder="0"></iframe>
