@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sjbs0212@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/santiagobarrazas/overlay/1742063405639/single-media-viewer/?profileId=ACoAADDRP3wB66rF7uUQsdiIY4M7SjKBheVooD8](https://www.linkedin.com/in/santiagobarrazas/overlay/1742063405639/single-media-viewer/?profileId=ACoAADDRP3wB66rF7uUQsdiIY4M7SjKBheVooD8)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RtnooLJLqXua-5x5a5ZiWg7le6O4Af-J/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
