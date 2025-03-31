@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Barraza</h1>
-<h3 align="center">A passionate software and telematics engineer focused on DevOps and Backend developent with a lot of interest in programming, technology, science and electronics.</h3>
+<h3 align="center">A passionate software and telematics engineer focused on DevOps and Backend developent with a lot of interest in programming </>, technology 🧑‍💻, science ⚛, astronomy 🔭 and electronics 🤖.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagobarrazas&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobarrazas" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiagobarrazas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagobarrazas" height="30" width="40" /></a>
-<a href="https://instagram.com/sant_barraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sant_barraza" height="30" width="40" /></a>
+<a href="https://instagram.com/sant_barraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sjbarraza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
