@@ -22,7 +22,7 @@
 <div align="center">
   <h3>💬 Let's Connect About</h3>
   <p>
-    <strong style="color: #0E75B6;">Docker</strong> | <strong style="color: #0E75B6;">Kubernetes</strong> | <strong style="color: #0E75B6;">AWS</strong> | <strong style="color: #0E75B6;">Spring Boot</strong> | Backend Architectures | DevOps Practices
+    <strong style="color: #0E75B6;">Docker</strong> | <strong style="color: #0E75B6;">Kubernetes</strong> | <strong style="color: #0E75B6;">AWS</strong> | <strong style="color: #0E75B6;">Spring Boot</strong> | Backend | DevOps
   </p>
 </div>
 
