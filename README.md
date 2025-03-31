@@ -29,7 +29,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,cpp,css,django,docker,express,firebase,flask,gcp,git,graphql,html,java,js,jenkins,jest,kotlin,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,opencv,postgres,postman,python,qt,react,redis,scikitlearn,spring,tailwind,ts,vagrant"/>
+  <img src="https://skillicons.dev/icons?i=aws,bash,cpp,css,django,docker,express,firebase,flask,gcp,git,graphql,html,java,js,jenkins,jest,kotlin,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,opencv,postgres,postman,python,qt,react,redis,scikitlearn,spring,tailwind,ts"/>
 </p>
 
 ---
