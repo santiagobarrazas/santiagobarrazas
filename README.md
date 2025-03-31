@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:0E75B6&height=180&section=header&text=Santiago%20Barraza&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Header">
 </p>
 
-<h2 align="center" style="margin-top: -15px;">🚀 Software & Telematics Engineer | DevOps Enthusiast | Backend Artisan</h2>
+<h2 align="center" style="margin-top: -15px;">🚀 Software & Telematics Engineer | DevOps | Backend Developer</h2>
 <p align="center">💻 Crafting innovative solutions with code, driven by a passion for technology, science, and the cosmos.</p>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #0E75B6 0%, #1E1E1E 100%); margin-top: 20px; margin-bottom: 20px;">
