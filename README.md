@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center" style="margin-top: -15px;">🚀 Software & Telematics Engineer | DevOps | Backend Developer</h2>
-<p align="center">💻 Crafting innovative solutions with code, driven by a passion for technology, science, and the cosmos.</p>
+<p align="center">💻 Engineering impactful software solutions through a passion for technology, scientific exploration, and a strong commitment to continuous learning and innovation.</p>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #0E75B6 0%, #1E1E1E 100%); margin-top: 20px; margin-bottom: 20px;">
 
@@ -33,18 +33,17 @@
   <a href="https://linkedin.com/in/santiagobarrazas" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/sjbarraza" target="_blank">
+  <a href="https://instagram.com/sjbarraza" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:sjbs0212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <a href="mailto:sjbs0212@gmail.com" style="color: #ffffff; background-color: #0E75B6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    <span style="margin-right: 5px;">📧</span> Reach me via Email
-  </a>
-  <span style="margin-left: 10px;">|</span>
-  <a href="https://drive.google.com/file/d/1RtnooLJLqXua-5x5a5ZiWg7le6O4Af-J/view?usp=drivesdk" style="color: #ffffff; background-color: #1E1E1E; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
-    <span style="margin-right: 5px;">📄</span> View My Resume
+<div align="center" style="margin-top: 20px;">
+  <a href="https://drive.google.com/file/d/1RtnooLJLqXua-5x5a5ZiWg7le6O4Af-J/view?usp=drivesdk" target="_blank" style="color: #ffffff; background-color: #0E75B6; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); display: inline-block;">
+    📄 View My Resume
   </a>
 </div>
 
