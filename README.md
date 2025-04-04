@@ -14,7 +14,7 @@
 <div align="center">
   <h3>👨‍💻 Currently Exploring</h3>
   <p>
-    🔭 Developing an <a href="#" style="color: #0E75B6; text-decoration: none;">App to measure movement in people with neurodegenerative diseases</a><br>
+    🔭 Developing an <a href="https://github.com/santiagobarrazas/IMUs" style="color: #0E75B6; text-decoration: none;">App to measure movement in people with neurodegenerative diseases</a><br>
     🌱 Mastering <strong style="color: #0E75B6;">Advanced Kubernetes Management</strong>
   </p>
 </div>
